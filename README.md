@@ -16,6 +16,8 @@ it removes:
 
 
 # Usage
-Open the compiled application, insert Assembly path press Enter key
-->Output: ...-cleaned.exe
+- 1.Open the compiled Application
+- 2.Insert target Assembly path
+- 3.Click on Enter key
+- ->output: ...-cleaned.exe
 
