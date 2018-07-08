@@ -1,5 +1,6 @@
 # AutoriDeobfuscator
 .NET Deobfuscator for AutoriObfuscator
+![alt text](prev.png)
 
 # Features
 it removes:
