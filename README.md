@@ -1,5 +1,5 @@
 # AutoriDeobfuscator
-.NET Deobfuscator for AutoriObfuscator
+.NET Deobfuscator for AutoriObfuscator (NeonFusactor)
 ![alt text](prev.png)
 
 # Features
